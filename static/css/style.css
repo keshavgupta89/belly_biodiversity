@@ -1,0 +1,41 @@
+.jumbotron {
+    background-image: url("../images/bacteria.gif");
+    background-size: 100% 100%;
+    color: black;
+}
+
+body {
+    background-color: cadetblue;
+}
+
+.panel-primary {
+    background-color: khaki;
+    margin-left: auto;
+    margin-right: auto;
+    width: 12em
+}
+
+.panel-title {
+    text-align: center;
+}
+
+#sample-metadata {
+    position: relative;
+    left: 2px;
+}
+
+select {
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    box-sizing: border-box;
+    background-color: cadetblue;
+    border-color: royalblue;
+}
+
+.well {
+    background-color: khaki;
+    border-color: royalblue;
+}
+
+
